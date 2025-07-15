@@ -80,5 +80,3 @@ This project includes two powerful versions:
 
 ---
 
-## 🗂 Project Structure
-
